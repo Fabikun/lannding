@@ -82,7 +82,7 @@
             "type": "Button"
         },
         {
-            "label": "Log in",
+            "label": "Regístrate",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
