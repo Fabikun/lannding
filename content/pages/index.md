@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Ventilación Invasiva Básica del adulto
+      text: Ventilación Invasiva Básica del paciente adulto
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
